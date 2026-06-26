@@ -1,2 +1,2 @@
-# My-first-practice
-I am learning coding now
+this is my first git repository
+author-Mustabeen bibi
